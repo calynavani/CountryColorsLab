@@ -1,0 +1,33 @@
+.centerElement{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.leftFloat{
+    float: left;
+}
+
+.halfWidth{
+     width: 50%;
+}
+
+div{
+    border-style:  double;
+    border-width: 5px;
+    border-color: white;
+    height: 700px;
+
+}
+
+#Color1{
+    background-color: blue;
+}
+
+#Color2{
+    background-color: white;
+}
+
+#Color3{
+    background-color:red;
+}
